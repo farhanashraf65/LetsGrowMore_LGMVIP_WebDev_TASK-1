@@ -12,6 +12,6 @@
 
 >Hosted on GitHub: https://farhanashraf65.github.io/TheSparksFoundation_gripjune21-task1/
 
->Made by FARHAN ASHRAF 28 Aug, 2021
+>Made by FARHAN ASHRAF
 
 @TheSparksFoundation #GRIPJUNE21 #WEBDEVELOPMENT #INTERN
