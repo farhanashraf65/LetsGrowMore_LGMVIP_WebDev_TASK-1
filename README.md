@@ -10,7 +10,7 @@
   3. JavaScript 
   4. Bootstrap
 
->Hosted on GitHub: https://farhanashraf65.github.io/LetsGrowMore-LGMVIP_WebDevTASK-1/
+>Hosted on GitHub: https://farhanashraf65.github.io/TheSparksFoundation_gripjune21-task1/
 
 >Made by FARHAN ASHRAF 28 Aug, 2021
 
