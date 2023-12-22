@@ -1,4 +1,4 @@
-# LetsGrowMore_LGMVIP_WebDev_TASK-1
+# TheSparksFoundation_gripjune21-TASK-1
 
 *Task_1 Beginner Level - Create a Single Page Website*
 
@@ -13,3 +13,5 @@
 >Hosted on GitHub: https://farhanashraf65.github.io/LetsGrowMore-LGMVIP_WebDevTASK-1/
 
 >Made by FARHAN ASHRAF 28 Aug, 2021
+
+@TheSparksFoundation #GRIPJUNE21 #WEBDEVELOPMENT #INTERN
